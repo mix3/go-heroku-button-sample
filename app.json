@@ -1,0 +1,6 @@
+{
+  "name": "go-heroku-button-sample",
+    "env": {
+    "BUILDPACK_URL": "https://github.com/kr/heroku-buildpack-go.git"
+  }
+}
